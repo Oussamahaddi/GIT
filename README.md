@@ -1,2 +1,6 @@
-# GIT
-In GitHub, teams aren’t just an arbitrary, bureaucratic concept; they are useful for modelling permissions and workflows for the ways your team functions in the real world (or enforcing the way it should function). You can create as many teams as you want, nest teams to reflect organizational structure,...
+# Outil de Visionning 
+
+ - Def :
+    C'est un systeme de controle des versions, qui permettent de gerer les changements apporter a un code.
+ Cela il a beaucoup des outils de versioning mais parmi les outils le plus connus dans ce domaine est :
+ Git.
