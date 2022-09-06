@@ -9,6 +9,11 @@
  #GIT
  
   - Def :
-    On peux dire que est un logiciel ou système de contrôle les versions décentralise, le plus largement utilise aujourd'hui tant dis qu'il es libre et gratuit.
- Se caractérise avec ces commandes très pratique :
+    On peux dire que est un logiciel ou systeme de controle les versions décentraliserm le plus largement utilise aujourd'hui tant dis qu'il es libre et gratuit.
+ Se caracterise avec ces commandes tres pratique :
     
+les commandes git que nous avons utilisées pour créer ce fichier.
+git init : pour initialiser le dépôt sur nos machines. 
+git add : c'est une commande qui ajoute un changement dans le répertoire de travail à la zone de stockage.
+git commit : cette commande permet d'ajouter un commentaire à vos modifications. 
+git push : pour pousser les changements vers le dépôt.
