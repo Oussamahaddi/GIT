@@ -6,3 +6,9 @@
     -GIT
     -SVN
     
+ #GIT
+ 
+  - Def :
+    On peux dire que est un logiciel ou systeme de controle les versions décentraliserm le plus largement utilise aujourd'hui tant dis qu'il es libre et gratuit.
+ Se caracterise avec ces commandes tres pratique :
+    
