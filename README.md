@@ -9,6 +9,6 @@
  #GIT
  
   - Def :
-    On peux dire que est un logiciel ou systeme de controle les versions décentraliserm le plus largement utilise aujourd'hui tant dis qu'il es libre et gratuit.
- Se caracterise avec ces commandes tres pratique :
+    On peux dire que est un logiciel ou système de contrôle les versions décentralise, le plus largement utilise aujourd'hui tant dis qu'il es libre et gratuit.
+ Se caractérise avec ces commandes très pratique :
     
