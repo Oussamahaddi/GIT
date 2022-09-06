@@ -24,4 +24,4 @@
  - Def :
    La plateforme GitHub permet aux programmeurs informatiques de collaborer librement sur des projets de code.GitHub est un service d’hébergement Open-Source, permettant aux programmeurs et aux développeurs de partager le code informatique de leurs projets afin de travailler dessus de façon collaborative. On peut le considérer comme un Cloud Dédié au code informatique.
 
-Le forking (codage et documentation), les pull requests (requêtes de tirage), et le merging (fusion)
+Le forking (codage et documentation), les pull requests (requêtes de tirage), et le merging (fusion).
