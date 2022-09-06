@@ -12,11 +12,11 @@
     On peux dire que c'est un logiciel ou systeme de controle des versions Décentralisé le plus largement utilise aujourd'hui. Tant dis qu'il es libre et gratuit.
  Il se caracterise avec ses commandes tres pratique dont nous avons utilisées pour créer ce fichier comme :
  
-- git init : pour initialiser le dépôt sur nos machines. 
-- git add "nome de document" : est une commande qui ajoute "nome de document" au local.
-- git commit : cette commande permet de montrer mes modification aux autres sous forme de commentaire.
-- git pull : prendre la dernier version du dépôt pour la modifier.
-- git push : renvoyer ma version vers le dépôt.
+ - git init : pour initialiser le dépôt sur nos machines. 
+ - git add "nome de document" : est une commande qui ajoute "nome de document" au local.
+ - git commit : cette commande permet de montrer mes modification aux autres sous forme de commentaire.
+ - git pull : prendre la dernier version du dépôt pour la modifier.
+ - git push : renvoyer ma version vers le dépôt.
 
 
 # GITHUB 
