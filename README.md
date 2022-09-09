@@ -16,7 +16,7 @@
  - git add "nome de document" : est une commande qui ajoute "nome de document" au local.
  - git commit : cette commande permet de montrer mes modification aux autres sous forme de commentaire.
  - git pull : prendre la dernier version du dépôt pour la modifier.
- - git push : renvoyer ma version vers le dépôt.
+ - git push : renvoyer ma version vers le dépôt..
 
 
 # GITHUB 
